@@ -1,0 +1,24 @@
+.copy_right_footer
+{
+  position: fixed;
+  color: black;
+  bottom: 0;
+  width: 100%;
+  line-height: 3;
+  text-align: center;
+}
+
+body 
+{
+background-color: forestgreen;
+}
+
+#title_heading
+{
+color: darkblue;
+}
+
+img
+{
+width: 100px;
+}
